@@ -11,9 +11,18 @@
  - 💬 이 사람은 언제나 할게 없습니다. 아이디어(+ 먹을거)를 던져주시면 순식간에 몰입합니다.
  - ⚡ 언제나 프로그래머/리겜 친구는 환영합니다!
  
+ 
+**Contact :**  
+친구가 되어주실분은 아래 연락처로 연락을..! (같이 프로젝트 진행 환영! 의뢰 환영!)  
+ - Email: matthew218@naver.com  
+ - Twitter: https://twitter.com/Waterticket  
+ - Blog: https://blog.naver.com/matthew218, https://blog.hoto.dev
+
+ 
 **Github Status :** 
 
 [![Waterticket's github stats](https://github-readme-stats.vercel.app/api?username=Waterticket&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **Hit Count :**  
 
