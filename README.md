@@ -15,9 +15,9 @@
 **Contact :**  
 친구가 되어주실분은 아래 연락처로 연락을..! (같이 프로젝트 진행 환영! 의뢰 환영!)  
  - Email: matthew218@naver.com  
- - Twitter: https://twitter.com/Waterticket  
- - Blog: https://blog.naver.com/matthew218, https://blog.hoto.dev
-
+ - Twitter: [@Waterticket_](https://twitter.com/Waterticket_)  
+ - Blog/HomePage: [네이버 블로그](https://blog.naver.com/matthew218), [개발 블로그](https://blog.hoto.dev)
+ - Shop: [개발한거 판매하는 곳](https://shop.hoto.dev)
  
 **Github Status :** 
 
