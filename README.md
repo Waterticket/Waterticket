@@ -21,7 +21,7 @@
  
 **Github Status :** 
 
-[![Waterticket's github stats](https://github-readme-stats.vercel.app/api?username=Waterticket&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Waterticket's github stats](https://github-readme-stats.vercel.app/api?username=Waterticket&show_icons=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Hit Count :**  
