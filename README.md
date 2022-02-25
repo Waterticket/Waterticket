@@ -14,9 +14,11 @@ PHP를 중점으로 코딩하며, 취미로 리버싱을 공부하고 있습니�
  
 **Contact :**  
 친구가 되어주실분은 아래 연락처로 연락을..! (같이 프로젝트 진행 환영! 의뢰 환영!)  
- - Email: me@yeongsang.kim  
- - Blog/HomePage: [네이버 블로그](https://blog.naver.com/matthew218), <s>[개발 블로그](https://blog.hoto.dev)</s>
- - Shop: [개발한거 판매하는 곳](https://shop.hoto.dev)
+ - Email: me@yeongsang.kim
+ - Blog/HomePage: [메인/일상 블로그](https://blog.naver.com/matthew218), [기록 블로그](https://blog.hoto.dev)
+ - Portfolio: [포트폴리오](https://me.hoto.dev)
+ - Contact: [개발 의뢰](https://shop.hoto.dev/cs)
+ - Shop: [G-Shop XE/Rhymix 관련 물품 쇼핑몰](https://shop.hoto.dev)
 
 **School :**
 - 한국디지털미디어고등학교 웹프로그래밍과 18기 졸업
