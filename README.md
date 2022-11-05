@@ -19,6 +19,9 @@ PHP를 중점으로 코딩하며, 취미로 리버싱을 공부하고 있습니�
  - Portfolio: [포트폴리오](https://me.hoto.dev)
  - Contact: [개발 의뢰](https://shop.hoto.dev/cs)
  - Shop: [G-Shop XE/Rhymix 관련 물품 쇼핑몰](https://shop.hoto.dev)
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 **School :**
 - 한국디지털미디어고등학교 웹프로그래밍과 18기 졸업
