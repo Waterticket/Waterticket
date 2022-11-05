@@ -20,6 +20,7 @@ PHP를 중점으로 코딩하며, 취미로 리버싱을 공부하고 있습니�
  - Contact: [개발 의뢰](https://shop.hoto.dev/cs)
  - Shop: [G-Shop XE/Rhymix 관련 물품 쇼핑몰](https://shop.hoto.dev)
  
+ **Wakatime Status :** 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
