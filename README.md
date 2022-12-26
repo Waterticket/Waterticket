@@ -24,7 +24,7 @@ PHP를 중점으로 코딩하며, 취미로 리버싱을 공부하고 있습니�
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
