@@ -17,8 +17,8 @@ PHP를 중점으로 코딩하며, 서브 언어로는 Python, Go를 사용합니
  - Email: me@yeongsang.kim
  - Blog/HomePage: [메인/일상 블로그](https://blog.naver.com/matthew218), [기록 블로그](https://blog.hoto.dev)
  - Portfolio: [포트폴리오](https://me.hoto.dev)
- - Contact: [개발 의뢰](https://shop.hoto.dev/cs)
- - Shop: [G-Shop XE/Rhymix 관련 물품 쇼핑몰](https://shop.hoto.dev)
+ - Contact: [개발 의뢰](https://potatosoft.kr/cs)
+ - Shop: [G-Shop XE/Rhymix 관련 물품 쇼핑몰](https://potatosoft.kr)
  
  **Wakatime Status :** 
 <!--START_SECTION:waka-->
