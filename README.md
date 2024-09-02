@@ -24,7 +24,10 @@ PHP를 중점으로 코딩하며, 서브 언어로는 Python, Go를 사용합니
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         1 hr 33 mins    █████████████████████▓░░░   87.28 %
+Other        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Bash         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
