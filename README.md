@@ -1,7 +1,7 @@
 ### 자유로운 프로그래머 Waterticket 입니다! 👋
 
 목적없이 이것저것 파는 것을 좋아합니다!  
-PHP를 중점으로 코딩하며, 서브 언어로는 Python, Go를 사용합니다~  
+PHP를 중점으로 코딩하며, 서브 언어로는 Python, Go, Java(Spring)을 사용합니다~  
 
 **Personal Things :**
  - 💼 한양대 에리카 재료화학공학과 22학번! (컴퓨터공학과 다중전공)
@@ -14,7 +14,7 @@ PHP를 중점으로 코딩하며, 서브 언어로는 Python, Go를 사용합니
  
 **Contact :**  
 친구가 되어주실분은 아래 연락처로 연락을..! (같이 프로젝트 진행 환영! 의뢰 환영!)  
- - Email: me@yeongsang.kim
+ - Email: me@yeongsang.kim, waterticket@potatosoft.kr (for Business)
  - Blog/HomePage: [메인/일상 블로그](https://blog.naver.com/matthew218), [기록 블로그](https://blog.hoto.dev)
  - Portfolio: [포트폴리오](https://me.hoto.dev)
  - Contact: [개발 의뢰](https://potatosoft.kr/cs)
@@ -39,13 +39,9 @@ JSON             15 mins         ▓░░░░░░░░░░░░░░�
  
 **Github Status :** 
 
-[![Waterticket's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Waterticket&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Waterticket's github stats](https://github-readme-stats.vercel.app/api?username=Waterticket&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Waterticket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-**Hit Count :**  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWaterticket&count_bg=%237DB8FF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waterticket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Waterticket/Waterticket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
