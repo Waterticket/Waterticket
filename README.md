@@ -24,7 +24,8 @@ PHP를 중점으로 코딩하며, 서브 언어로는 Python, Java(Spring), Go�
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML    4 mins                ███████████████░░░░░░░░░░   59.92 %
+Other   2 mins                ██████████░░░░░░░░░░░░░░░   40.08 %
 ```
 
 <!--END_SECTION:waka-->
