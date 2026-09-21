@@ -24,7 +24,11 @@ PHP를 중점으로 코딩하며, 서브 언어로는 Python, Java(Spring), Go�
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     3 hrs 22 mins         ███████████▒░░░░░░░░░░░░░   45.40 %
+Python       1 hr 21 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+Other        1 hr 17 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+SQL          30 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Bash         18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
